@@ -1,7 +1,7 @@
 body{
-    background: aqua;
+    background: white;
     font-size: medium;
-    font-family: cursive;
+    font-family: inherit;
 }
 h1{
     background: rebeccapurple;
@@ -12,4 +12,13 @@ h1{
 h2{
     background-attachment: fixed
     ;
+}
+ul{
+    font-size: medium;
+    font-style: normal;
+}
+a{
+    background-color: blue;
+    font-style: oblique;
+    font-weight: bold;
 }
